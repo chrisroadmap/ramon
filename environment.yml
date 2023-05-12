@@ -1,0 +1,14 @@
+name: ramon
+channels:
+  - chrisroadmap
+  - conda-forge
+dependencies:
+  - fair==2.1.0
+  - jupyter
+  - matplotlib
+  - netCDF4
+  - numpy
+  - pandas
+  - scipy
+  - tqdm
+  - xarray
